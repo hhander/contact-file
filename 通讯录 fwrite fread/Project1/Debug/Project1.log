@@ -1,0 +1,8 @@
+﻿  contact.c
+C:\Users\yyyyy\Desktop\Project1\Project1\contact.c(213,54): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\yyyyy\Desktop\Project1\Project1\contact.c(213,54): warning C4028: 形参 1 与声明不同
+C:\Users\yyyyy\Desktop\Project1\Project1\contact.c(213,54): warning C4028: 形参 2 与声明不同
+C:\Users\yyyyy\Desktop\Project1\Project1\contact.c(218,54): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\yyyyy\Desktop\Project1\Project1\contact.c(218,54): warning C4028: 形参 1 与声明不同
+C:\Users\yyyyy\Desktop\Project1\Project1\contact.c(218,54): warning C4028: 形参 2 与声明不同
+  Project1.vcxproj -> C:\Users\yyyyy\Desktop\Project1\Debug\Project1.exe
